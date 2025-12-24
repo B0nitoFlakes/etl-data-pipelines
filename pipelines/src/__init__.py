@@ -1,0 +1,1 @@
+# Makes 'pipelines.src' a subpakage
